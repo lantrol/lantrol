@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sometimes I do things, mostly when bored
 
 <!--
 **lantrol/lantrol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
